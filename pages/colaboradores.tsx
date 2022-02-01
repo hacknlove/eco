@@ -34,7 +34,7 @@ const Productores: NextPage = () => {
         <p>
           También puedes echar un ojo al repo. Aunque de momento no hay mucho que ver, solo tenemos la landing.
           <br/>
-          <a href="https://github.com/hacknlove/ecologia.app-landing">github</a>
+          <a href="https://github.com/hacknlove/eco">github</a>
         </p>
 
         <form onSubmit={submit}>
