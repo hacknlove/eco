@@ -27,6 +27,10 @@ const Productores: NextPage = () => {
         <p>
           En cuanto tengamos suficientes usuarios para comenzar, y podamos incluírte en alguna ruta, te avisaremos.
         </p>
+
+        <p>
+          Una última cosa. Sería de gran ayuda que compartas esta página https://ecoologia.app con quien creas que pueda estar interesado. ¡Gracias!
+        </p>
         <Link href="/" passHref><a>Volver</a></Link>
       </main>
     </div>

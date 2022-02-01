@@ -53,6 +53,10 @@ const Home: NextPage = () => {
             </a>
           </Link>
         </div>
+        <hr/>
+        <p>
+          Por favor, si crees que esta propuesta puede ser positiva para tu entorno, compártela con quien creas que pueda estar interesado.
+        </p>
       </main>
     </div>
   )
