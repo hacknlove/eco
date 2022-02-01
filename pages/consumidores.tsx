@@ -18,7 +18,7 @@ const Productores: NextPage = () => {
       </Head>
 
       <main>
-        <h1> Hacer las cosas bien es bueno</h1>
+        <h1>Hacer las cosas bien es bueno</h1>
         <h2>
           Consumidores
         </h2>
