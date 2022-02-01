@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "import/resolver": {
+      "alias": {
+        "map": [
+          ["exnge", "./", "/"]
+        ],
+        "extensions": [".js", ".jsx", ".ts", ".tsx", ".json", "scss"]
+      }
+    }
+  },
+  "extends": "next/core-web-vitals"
+}
